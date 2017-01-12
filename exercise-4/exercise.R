@@ -13,7 +13,7 @@ length(n)
 m <- seq(10, 1)
 
 # Subtract `m` FROM `n`. Note the recycling!
-print(n - m)
+n - m
 
 # Use the `seq()` function to produce a range of numbers from -5 to 10 in `.1` increments.
 # Store it in a variable `x`
